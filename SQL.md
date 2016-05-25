@@ -1,4 +1,4 @@
-# smalldata-training
+# SQL recap
 
 ## Selecting data
 
